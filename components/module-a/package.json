@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "lodash": "^4.17.10",
+    "svelte": "^2.8.1"
+  }
 }
