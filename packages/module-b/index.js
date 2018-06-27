@@ -1,3 +1,4 @@
 export default {
-    module: "module-b"
+    module: "module-b",
+    update: 1
 }
